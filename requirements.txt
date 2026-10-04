@@ -2,3 +2,4 @@ Flask
 google-genai
 pypdf
 python-dotenv
+gunicorn 
